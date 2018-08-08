@@ -1,2 +1,2 @@
 source/matlab/* linguist-language=matlab
-source/editor-delphi/* linguist-language=pascal
+#source/editor-delphi/* linguist-language=pascal
