@@ -32,3 +32,7 @@ Where,
 ### Software Main Screen
 
 ![main_window](/img/main_window.jpg)
+
+### Run-Time module flowchart
+
+![run_time](/img/run_time.jpg)
