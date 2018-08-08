@@ -24,6 +24,7 @@ Where,
 **G**    = Generator
 **Lx**   = Transmission Line
 **1..4** = Bus Bars
+**Tx**   = Transfomer
 
 ### Software Main Screen
 
