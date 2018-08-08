@@ -17,16 +17,11 @@ SACC is a software used to calculate and analyse power systems short circuits. I
 
 ### 3 Bus system example
 
-  ---   1         T.L.        2   ---
-  
+  ---   1         T.L.        2   --- 
  | G |--|---------------------|--| G |
- 
   ---   |---------+  +--------|   ---
-  
-                  |  |    
-                  
+                  |  |                   
                  ------ 3
-                 
                    |                   
 Where, 
 
