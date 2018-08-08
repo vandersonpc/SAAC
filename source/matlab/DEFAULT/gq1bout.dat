@@ -1,0 +1,1335 @@
+                  ******************************************
+                      SSSS      AAAA      CCCC      CCCC    
+                     SSSSSS    AAAAAA    CCCCCC    CCCCCC   
+                    SS    SS  AA    AA  CC    CC  CC    CC  
+                    SS        AA    AA  CC    CC  CC    CC  
+                     SSSSS    AA AA AA  CC        CC        
+                      SSSSS   AA AA AA  CC        CC        
+                          SS  AA    AA  CC    CC  CC    CC  
+                    SS    SS  AA    AA  CC    CC  CC    CC  
+                     SSSSSS   AA    AA   CCCCCC    CCCCCC   
+                      SSSS    AA    AA    CCCC      CCCC    
+                  ******************************************
+                    SOFTWARE DE ANÁLISE DE CURTO CIRCUITO   
+                           EM SISTEMAS DE POTÊNCIA          
+                               VERSÃO 2.0/2006                    
+                  ******************************************
+
+                              R E S U L T A D O S                        
+==============================================================================
+  SISTEMA:  Sistema 6 barras da GQ1                                          
+  DATA: 01-Nov-2006                                                          
+  POTENCIA BASE: 100.00 MVA                                          
+==============================================================================
+==============================================================================
+* TESNSOES DE PRE FALTA (pu) : 1.000                                         *
+==============================================================================
+==============================================================================
+  BARRA : Barra1         
+==============================================================================
+* VALORES BASES                                                              *
+==============================================================================
+*                    TENSAO                        CORRENTE                  *
+*         Magnitude(kV)   Angulo(Graus)   Magnitude(kA)  Angulo(graus)       *
+*----------------------------------------------------------------------------*
+*             13.800        0.000            4.184            0.000          *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO TRIFASICA                                       *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA TRIFASICA                                           *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA TRIFASICA                                             *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO MONOFASICO                                      *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA MONOFASICA                                          *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA MONOFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO                                        *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA                                              *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO PARA TERRA                             *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA PARA TERRA                                 *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA PARA TERRA                                   *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+##############################################################################
+  BARRA : Barra2         
+==============================================================================
+* VALORES BASES                                                              *
+==============================================================================
+*                    TENSAO                        CORRENTE                  *
+*         Magnitude(kV)   Angulo(Graus)   Magnitude(kA)  Angulo(graus)       *
+*----------------------------------------------------------------------------*
+*             13.800        0.000            4.184            0.000          *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO TRIFASICA                                       *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA TRIFASICA                                           *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA TRIFASICA                                             *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO MONOFASICO                                      *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA MONOFASICA                                          *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA MONOFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO                                        *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA                                              *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO PARA TERRA                             *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA PARA TERRA                                 *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA PARA TERRA                                   *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+##############################################################################
+  BARRA : Barra3         
+==============================================================================
+* VALORES BASES                                                              *
+==============================================================================
+*                    TENSAO                        CORRENTE                  *
+*         Magnitude(kV)   Angulo(Graus)   Magnitude(kA)  Angulo(graus)       *
+*----------------------------------------------------------------------------*
+*             138.000       0.000            0.418            0.000          *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO TRIFASICA                                       *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA TRIFASICA                                           *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA TRIFASICA                                             *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO MONOFASICO                                      *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA MONOFASICA                                          *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA MONOFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO                                        *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA                                              *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO PARA TERRA                             *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA PARA TERRA                                 *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA PARA TERRA                                   *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+##############################################################################
+  BARRA : Barra4         
+==============================================================================
+* VALORES BASES                                                              *
+==============================================================================
+*                    TENSAO                        CORRENTE                  *
+*         Magnitude(kV)   Angulo(Graus)   Magnitude(kA)  Angulo(graus)       *
+*----------------------------------------------------------------------------*
+*             138.000       0.000            0.418            0.000          *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO TRIFASICA                                       *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA TRIFASICA                                           *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA TRIFASICA                                             *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO MONOFASICO                                      *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA MONOFASICA                                          *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA MONOFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO                                        *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA                                              *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO PARA TERRA                             *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA PARA TERRA                                 *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA PARA TERRA                                   *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+##############################################################################
+  BARRA : Barra5         
+==============================================================================
+* VALORES BASES                                                              *
+==============================================================================
+*                    TENSAO                        CORRENTE                  *
+*         Magnitude(kV)   Angulo(Graus)   Magnitude(kA)  Angulo(graus)       *
+*----------------------------------------------------------------------------*
+*             138.000       0.000            0.418            0.000          *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO TRIFASICA                                       *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA TRIFASICA                                           *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA TRIFASICA                                             *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO MONOFASICO                                      *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA MONOFASICA                                          *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA MONOFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO                                        *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA                                              *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO PARA TERRA                             *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA PARA TERRA                                 *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA PARA TERRA                                   *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+##############################################################################
+  BARRA : Barra6         
+==============================================================================
+* VALORES BASES                                                              *
+==============================================================================
+*                    TENSAO                        CORRENTE                  *
+*         Magnitude(kV)   Angulo(Graus)   Magnitude(kA)  Angulo(graus)       *
+*----------------------------------------------------------------------------*
+*             13.800        0.000            4.184            0.000          *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO TRIFASICA                                       *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA TRIFASICA                                           *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA TRIFASICA                                             *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO MONOFASICO                                      *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA MONOFASICA                                          *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA MONOFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO                                        *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA                                            *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA                                              *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* CORRENTE DE CURTO CIRCUITO BIFASICO PARA TERRA                             *
+==============================================================================
+*              Magnitude(pu)     Magnitude(kA)    Angulo(graus)              *
+*----------------------------------------------------------------------------*
+*                NaN                NaN              NaN                     *
+==============================================================================
+* CORRENTES DE POS FALTA BIFASICA PARA TERRA                                 *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kA)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+* TENSOES DE POS FALTA BIFASICA PARA TERRA                                   *
+==============================================================================
+*     BARRA          FASE    Magnitude(pu)  Magnitude(kV)   Angulo(graus)    *
+*----------------------------------------------------------------------------*
+* Barra1              A            NaN           NaN               NaN       *
+* Barra1              B            NaN           NaN               NaN       *
+* Barra1              C            NaN           NaN               NaN       *
+* Barra2              A            NaN           NaN               NaN       *
+* Barra2              B            NaN           NaN               NaN       *
+* Barra2              C            NaN           NaN               NaN       *
+* Barra3              A            NaN           NaN               NaN       *
+* Barra3              B            NaN           NaN               NaN       *
+* Barra3              C            NaN           NaN               NaN       *
+* Barra4              A            NaN           NaN               NaN       *
+* Barra4              B            NaN           NaN               NaN       *
+* Barra4              C            NaN           NaN               NaN       *
+* Barra5              A            NaN           NaN               NaN       *
+* Barra5              B            NaN           NaN               NaN       *
+* Barra5              C            NaN           NaN               NaN       *
+* Barra6              A            NaN           NaN               NaN       *
+* Barra6              B            NaN           NaN               NaN       *
+* Barra6              C            NaN           NaN               NaN       *
+==============================================================================
+##############################################################################

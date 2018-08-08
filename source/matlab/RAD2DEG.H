@@ -1,0 +1,38 @@
+/*
+ * MATLAB Compiler: 2.1
+ * Date: Mon Dec 18 22:35:59 2006
+ * Arguments: "-B" "macro_default" "-O" "all" "-O" "fold_scalar_mxarrays:on"
+ * "-O" "fold_non_scalar_mxarrays:on" "-O" "optimize_integer_for_loops:on" "-O"
+ * "array_indexing:on" "-O" "optimize_conditionals:on" "-m" "-W" "main" "-L"
+ * "C" "-t" "-T" "link:exe" "-h" "libmmfile.mlib" "-h" "-v" "-O" "all" "-O"
+ * "fold_scalar_mxarrays:on" "-O" "fold_non_scalar_mxarrays:on" "-O"
+ * "optimize_integer_for_loops:on" "-O" "array_indexing:on" "-O"
+ * "optimize_conditionals:on" "-B" "sgl" "-m" "-W" "main" "-L" "C" "-t" "-T"
+ * "link:exe" "-h" "libmmfile.mlib" "-W" "mainhg" "libmwsglm.mlib" "sacc.m" 
+ */
+
+#ifndef MLF_V2
+#define MLF_V2 1
+#endif
+
+#ifndef __rad2deg_h
+#define __rad2deg_h 1
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#include "libmatlb.h"
+
+extern void InitializeModule_rad2deg(void);
+extern void TerminateModule_rad2deg(void);
+extern _mexLocalFunctionTable _local_function_table_rad2deg;
+
+extern mxArray * mlfRad2deg(mxArray * angle);
+extern void mlxRad2deg(int nlhs, mxArray * plhs[], int nrhs, mxArray * prhs[]);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

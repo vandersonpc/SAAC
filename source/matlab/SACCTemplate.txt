@@ -1,0 +1,158 @@
+SACC
+% 
+%   
+%               
+%                   **************************************** 
+%                      SSSS      AAAA      CCCC      CCCC
+%                     SSSSSS    AAAAAA    CCCCCC    CCCCCC                                         
+%                    SS    SS  AA    AA  CC    CC  CC    CC
+%                    SS        AA    AA  CC    CC  CC    CC
+%                     SSSSS    AA AA AA  CC        CC 
+%                      SSSSS   AA AA AA  CC        CC
+%                          SS  AA    AA  CC    CC  CC    CC
+%                    SS    SS  AA    AA  CC    CC  CC    CC
+%                     SSSSSS   AA    AA   CCCCCC    CCCCCC
+%                      SSSS    AA    AA    CCCC      CCCC 
+%                   **************************************** 
+%                    SOFTWARE DE ANALISE DE CURTO CIRCUITO
+%                          EM SISTEMAS DE POTENCIA 
+%
+%                              VERSAO 1.8/2006  
+%
+%==================================================================================
+% DADOS DO SISTEMA
+%   
+%        name   -  Nome do sistema
+%        sbase  -  Potencia base do sistema 
+%
+% DADOS DOS BARRAMENTOS(busdata)
+%
+%        busnames -  Nome dos barramentos. max 15 caracteres
+%        Bus      -  Numero do barramento    
+%        Type     -  Tipo do Barramento :  
+%                  
+%                     1 - Barra swing
+%                     2 - Barra de geracao
+%                     3 - Barra de carga
+%
+%        Pg       -  Potencia Ativa de geracao em pu      
+%        Qg       -  Potencia Reativa de geracao em pu
+%        Pc       -  Potencia Ativa de carga em pu 
+%        Pg       -  Potencia reativa de carga em pu
+%        Vmag     -  Magnitude da tensao em pu
+%        Vdeg     -  Angulo da tensao em graus
+%        Vbase    -  Tensao base do barramento em KV
+%
+%
+%        OBS: Os dados nao especificados devem ser arbitrados:
+%
+%             Vmag = 1.0 pu
+%             Vdeg =  0  deg
+%
+%=================================================================================== 
+% 
+% ESTRUTURA DO SISTEMA(sysdata):
+%
+%        Busi   -  Barramento de interliga‡ao inicial.
+%        Busf   -  Barramento de interliga‡ao final.
+%
+%                  OBS:Nos casos de geradores e cargas Busf igual a zero.
+%                    
+%	   Dtype  -  Tipo de dispositivo, vide tabela abaixo.
+%
+%                  0 - Gerador 
+%                  1 - Transformador 
+%                  2 - Linha de Transmissao
+%                  3 - Carga 
+%
+%        Ltype  -  Tipo de ligacao do dispositivo, vide tabela abaixo.
+%
+%	             Para gerador:  0 - Estrela;
+%			                1 - Estrela Aterrado
+%
+%
+%                  Para Trafo:    0 - Estrela Aterrado/Estrela Aterrado 
+%        	                      1 - Estrela Aterrado/Estrela
+%              	                2 - Estrela Aterrado/Delta 
+%                                 3 - Estrela/Estrela Aterrado;
+%                                 4 - Estrela/Estrela;
+%	                            5 - Estrela/Delta;
+%       	                      6 - Delta/Estrela Aterrado;
+%                                 7 - Delta/Estrela;
+%                           	    8 - Delta/Delta; 
+%
+%
+%                  Para carga:    0 - Estrela;
+%             	                1 - Estrela Aterrado
+%
+%
+%        V1nom  -  Tensao nominal em KV, no caso de trafos tensao do primario
+%                  em L.T. igual a zero.  
+% 
+%        V2nom  -  Tensao nominal em KV, no caso de trafos tensao do secundario
+%                  em L.T. igual a zero.  
+%
+%        Snom   -  Potencia Nominal em MVA, no caso de L.T. igual a zero.
+%        Rpos   -  Resitencia de sequencia positiva/negativa em pu.
+%        Xpos   -  Reatancia de sequencia positiva em pu.
+%        Rneg   -  Resitencia de sequencia negativa em pu.
+%        Xneg   -  Reatancia de sequencia negativa em pu.
+%        Rzero  -  Resitencia de sequencia zero em pu.
+%        Xzero  -  Reatancia de sequencia zero em pu.
+%        Ysh    -  Admitancia shunt da linha de transmissao em pu.
+%
+%=================================================================================== 
+%
+% exemplo: sistema de 3 barramentos
+%
+%  ---   1         L.T.        2   ---
+% | G |--|---------------------|--| G |
+%  ---   |---------+  +--------|   ---
+%                  |  |    
+%                 ------ 3
+%                   |
+%
+%====================================================================================
+%
+%
+% Nome do sistema
+
+name = 'Exemplo de sistema com 3 barramentos';
+
+%
+% Potencia base
+
+sbase = 100;
+
+%
+% Nome dos Barramentos max. 15 caracteres
+%
+
+busnames = Marques do Parana, Silva Teles, Joao Brasil;
+
+%
+% Dados dos Barramentos
+%
+
+busdata = 
+
+%  Bus  Type   Pg     Qg     Pc     Qc     Vmag    Vdeg   Vbase
+    1     1    0      0      0.0    0.0    1.0      0     13.8
+    2     2    3      0      0.0    0.0    1.0      0     13.8
+    3     3    0      0       8     0.5    1.0      0     13.8
+;
+
+%
+% Estrutura do Sistema
+%
+
+sysdata = 
+
+% Busi Busf  Dtype  Ltype  V1nom  V2nom  Snom  Rpos      Xpos    Rneg  Xneg  Rzero  Xzero  Ysh
+   1    2      2      0      0     0      0     0.003    0.03    0.0   0.4   0.0    0.45   0.5
+   1    3      2      0      0     0      0     0.0045   0.045   0.0   0.4   0.0    0.45   1.0
+   2    3      2      0      0     0      0     0.003    0.03    0.0   0.8   0.0    0.5    0.5
+;
+%
+%
+END

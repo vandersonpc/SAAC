@@ -1,0 +1,27 @@
+/* start of libtimefun.mlib */
+
+target    = "C";
+include   = "libtimefun.h";
+timestamp = "Thu Nov 02 11:56:11 2006";
+
+datenummx {  /* M function name */
+    nin      = 1;        /* number of M inputs */
+    nout     = 1;        /* number of M outputs */
+    scope    = global;   /* where function defined */
+    varargin;            /* varargin used */
+    varargout;           /* varargout used */
+    cname    = mlfDatenummx;   /* mxArray in and out */
+    cname    = mlfNdatenummx;  /* name when nargout used */
+    cname    = mlfVdatenummx;  /* name when void */
+    nargout  = 1;        /* nargout used */
+}
+
+etime {  /* M function name */
+    nin      = 2;        /* number of M inputs */
+    nout     = 1;        /* number of M outputs */
+    scope    = global;   /* where function defined */
+    cname    = mlfEtime;   /* mxArray in and out */
+    nargout  = 0;        /* nargout not used */
+}
+
+/* end of libtimefun.mlib */
