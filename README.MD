@@ -13,7 +13,7 @@
                     SOFTWARE DE ANALISE DE CURTO CIRCUITO
                           EM SISTEMAS DE POTENCIA 
 
-SACC is a piece of software used to calculate and analyse power systems short circuits. It's **BackEnd** is developed in [Matlab](https://www.mathworks.com/products/matlab.html) and the **FrontEnd** develop in [Delhi](https://www.embarcadero.com/products/delphi) **Object-Pascal**. The software works using the power flux analysis through matrix operations.
+SACC is a piece of software used to calculate and analyse power systems short circuits. It's **BackEnd** is developed in [Matlab](https://www.mathworks.com/products/matlab.html) and the **FrontEnd** develop in [Delphi](https://www.embarcadero.com/products/delphi) **Object-Pascal**. The software works using the power flux analysis through matrix operations.
 
 ### 4 Bus system example
 
